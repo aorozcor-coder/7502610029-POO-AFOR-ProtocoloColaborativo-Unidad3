@@ -1,6 +1,6 @@
 package Taller14_Polimorfismo.Ejercicio_01;
 
-public class pruebaFigura {
+public class PruebaFigura {
     public static void main(String[] args){
 
         Circulo c1 = new Circulo(6);
